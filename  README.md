@@ -54,7 +54,7 @@ This project is a simplified GraphQL API for managing patients and their symptom
 3. **Install dependencies**
 
    ```bash
-   pip install fastapi strawberry-graphql uvicorn
+   pip install -r requirements.txt   
    ```
 
 4. **Run the API**
